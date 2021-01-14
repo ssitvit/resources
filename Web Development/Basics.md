@@ -9,7 +9,7 @@ Basics are necessary whether you opt for Backend or Frontend Web Development. Th
 
 1. [HTML CheatSheet by Stanford](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 2. [W3Schools HTML](https://www.w3schools.com/html/) ( For following along)
-3. [MDN documentation](https://github.com/GunjanRajTiwari/resources.git)( If you got stuck in something. )
+3. [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)( If you got stuck in something. )
 
 ### CSS
 
