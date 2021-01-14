@@ -1,9 +1,7 @@
 # Must to get started
-```
-Basics are necessary whether you opt for Backend or Frontend Web Development. 
-These would help you know how website works and once you're suited to them you 
-can pick up your desired domain and framework :)
-```
+
+Basics are necessary whether you opt for Backend or Frontend Web Development. These would help you know how website works and once you're suited to them you can pick up your desired domain and framework :)
+
 
 ## Learning Resources
 
