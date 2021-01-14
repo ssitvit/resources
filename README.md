@@ -4,7 +4,7 @@
     <h4 align="center">SUBTITLE</h4>
 </p>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ieeessitvit/template?logo=github&style=social)](https://github.com/ieeessitvit/) [![GitHub last commit](https://img.shields.io/github/last-commit/ieeessitvit/template?style=social&logo=git)](https://github.com/ieeessitvit/) [![GitHub stars](https://img.shields.io/github/stars/ieeessitvit/template?style=social)](https://github.com/ieeessitvit/.../stargazers) [![GitHub forks](https://img.shields.io/github/forks/ieeessitvit/template?style=social&logo=git)](https://github.com/ieeessitvit/.../network)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ieeessitvit/resources?logo=github&style=social)](https://github.com/ieeessitvit/) [![GitHub last commit](https://img.shields.io/github/last-commit/ieeessitvit/resources?style=social&logo=git)](https://github.com/ieeessitvit/) [![GitHub stars](https://img.shields.io/github/stars/ieeessitvit/resources?style=social)](https://github.com/ieeessitvit/.../stargazers) [![GitHub forks](https://img.shields.io/github/forks/ieeessitvit/resources?style=social&logo=git)](https://github.com/ieeessitvit/.../network)
 
 
 ### Requirements:-
