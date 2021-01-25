@@ -27,6 +27,12 @@ Basics are necessary whether you opt for Backend or Frontend Web Development. Th
 
 1. [W3Schools JS](https://www.w3schools.com/js/default.asp)
 
+
+**Frameworks**:
+
+* ReactJS
+* AngularJS
+* VueJS
 ---
 ## Backend
 
@@ -49,9 +55,6 @@ Basics are necessary whether you opt for Backend or Frontend Web Development. Th
 2. NoSQL
     - Mongodb
     - Firebase ( Firestore )
-
-
-
 ---
 
 ## Practice Assignments
@@ -61,20 +64,3 @@ Basics are necessary whether you opt for Backend or Frontend Web Development. Th
 3. Fix some bugs or add something in pre-existing projects: [GitHub ScoreBoard](https://github.com/ieeessitvit/GitHub-Scoreboard) and [SSIT Tech Updates](https://github.com/ieeessitvit/Tech-Updates)
 
 > Happy Learning 🎉
-
-## Time To Choose Your Track
-
-### 1. Back-end: 
-
-**Frameworks**:
-
-* NodeJS
-* Django
-
-### 2. Front-end:
-
-**Frameworks**:
-
-* ReactJS
-* AngularJS
-* VueJS
