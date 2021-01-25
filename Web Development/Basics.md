@@ -3,12 +3,13 @@
 Basics are necessary whether you opt for Backend or Frontend Web Development. These would help you know how website works and once you're suited to them you can pick up your desired domain and framework :)
 
 
-## Learning Resources
+## Frontend
 
 ### HTML
 
 1. [HTML CheatSheet by Stanford](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
-2. [W3Schools HTML](https://www.w3schools.com/html/)
+2. [W3Schools HTML](https://www.w3schools.com/html/) ( For following along)
+3. [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)( If you got stuck in something. )
 
 ### CSS
 
@@ -26,6 +27,34 @@ Basics are necessary whether you opt for Backend or Frontend Web Development. Th
 
 1. [W3Schools JS](https://www.w3schools.com/js/default.asp)
 
+
+**Frameworks**:
+
+* ReactJS
+* AngularJS
+* VueJS
+---
+## Backend
+
+### Backend Basics
+1. Basic terminal commands
+2. Http methods
+3. Error codes
+
+### Framework
+1. Flask ( Python )
+2. Django ( Python )
+3. NodeJs ( Javascript )
+4. Spring ( Java )
+> Note: Choose any one only.
+
+### Database
+1. SQL
+    - My SQL
+    - PosgreSQL
+2. NoSQL
+    - Mongodb
+    - Firebase ( Firestore )
 ---
 
 ## Practice Assignments
@@ -35,20 +64,3 @@ Basics are necessary whether you opt for Backend or Frontend Web Development. Th
 3. Fix some bugs or add something in pre-existing projects: [GitHub ScoreBoard](https://github.com/ieeessitvit/GitHub-Scoreboard) and [SSIT Tech Updates](https://github.com/ieeessitvit/Tech-Updates)
 
 > Happy Learning 🎉
-
-## Time To Choose Your Track
-
-### 1. Back-end: 
-
-**Frameworks**:
-
-* NodeJS
-* Django
-
-### 2. Front-end:
-
-**Frameworks**:
-
-* ReactJS
-* AngularJS
-* VueJS
