@@ -28,18 +28,6 @@ Basics are necessary whether you opt for Backend or Frontend Web Development. Th
 1. [W3Schools JS](https://www.w3schools.com/js/default.asp)
 
 ---
-## Backend
-
-### Programing language
-1. Python
-2. JAVA
-3. JavaScript
-
-### Backend Basics
-1. Basic terminal commands
-2. Http methods
-3. Error codes
----
 
 ## Practice Assignments
 
