@@ -23,38 +23,22 @@ Basics are necessary whether you opt for Backend or Frontend Web Development. Th
 2. [Materialize CSS](https://materializecss.com/)
 3. [HalfMoon CSS(with built-in dark mode)](https://www.gethalfmoon.com/)
 
-### JavaScript
+### JavaScript Basics
 
 1. [W3Schools JS](https://www.w3schools.com/js/default.asp)
 
-
-**Frameworks**:
-
-* ReactJS
-* AngularJS
-* VueJS
 ---
 ## Backend
+
+### Programing language
+1. Python
+2. JAVA
+3. JavaScript
 
 ### Backend Basics
 1. Basic terminal commands
 2. Http methods
 3. Error codes
-
-### Framework
-1. Flask ( Python )
-2. Django ( Python )
-3. NodeJs ( Javascript )
-4. Spring ( Java )
-> Note: Choose any one only.
-
-### Database
-1. SQL
-    - My SQL
-    - PosgreSQL
-2. NoSQL
-    - Mongodb
-    - Firebase ( Firestore )
 ---
 
 ## Practice Assignments
@@ -62,5 +46,9 @@ Basics are necessary whether you opt for Backend or Frontend Web Development. Th
 1. Portfolio Website
 2. Clone a webpage maybe Amazon. It'd teach you the use of grids and cards.
 3. Fix some bugs or add something in pre-existing projects: [GitHub ScoreBoard](https://github.com/ieeessitvit/GitHub-Scoreboard) and [SSIT Tech Updates](https://github.com/ieeessitvit/Tech-Updates)
+
+### After completing the basics one can go deeper into their domain of interest
+1. [Frontend](./Frontend.md)
+2. [Backend](./Backend.md)
 
 > Happy Learning 🎉
