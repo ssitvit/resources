@@ -8,7 +8,7 @@ Basic concepts of any programing language is appreciated. If none, no problem. S
 
 ### Dart
 
-1. [DartPad](https://dartpad.dev/?)
+1. [DartPad](https://dartpad.dev/?)(For practicing Dart)
 2. [Dart tutorial](https://youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
 3. [Dart documentation](https://dart.dev/guides)
 
